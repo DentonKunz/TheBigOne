@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0eceebd3-2d3e-44c5-89cf-e537546fc26f",
+            "Value": {
+                "id": "453dbd69-2cd2-4ce4-8127-c165180f8c83",
+                "resourcePath": "sprites\\spr_bits\\spr_bits.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "19ff2f62-540c-46aa-ad62-8a05d143d5a0",
             "Value": {
                 "id": "aa14fae3-53b6-4b97-960f-80fac1e74115",
@@ -47,11 +55,11 @@
             }
         },
         {
-            "Key": "32ddeb9c-c4c7-40bf-9f5d-7b3a107e1993",
+            "Key": "1f739b68-fb55-4bb3-962e-9442622b213d",
             "Value": {
-                "id": "b2c68565-0439-4361-878a-b1bf2c40eef0",
-                "resourcePath": "sprites\\spr_player_shooting\\spr_player_shooting.yy",
-                "resourceType": "GMSprite"
+                "id": "e30898bc-b3df-494f-b12b-2ed7144fd435",
+                "resourcePath": "objects\\obj_counter\\obj_counter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -135,11 +143,27 @@
             }
         },
         {
+            "Key": "8454c42f-e0e6-4bfd-a864-b57bbe287f7d",
+            "Value": {
+                "id": "8e47112d-fd7c-4ea0-8b22-63ed8188d14a",
+                "resourcePath": "sprites\\spr_asteroidgone\\spr_asteroidgone.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "84d52aa4-b568-4f8b-99c1-b4bec8fae2fc",
             "Value": {
                 "id": "ac24e2d7-7711-4b83-9c0f-213a0d41f7e4",
                 "resourcePath": "views\\84d52aa4-b568-4f8b-99c1-b4bec8fae2fc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e78ae30-c2a7-425f-a62b-b2fe823212ee",
+            "Value": {
+                "id": "bec040f5-293c-4734-af14-d8a64219c295",
+                "resourcePath": "objects\\obj_bits\\obj_bits.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -172,6 +196,14 @@
                 "id": "48818363-2a6c-44e2-a741-a370939f8bc8",
                 "resourcePath": "views\\b0d41a8c-53c1-4aec-9370-55497146a0a1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b29bb683-3621-4b6c-a16f-7c0057a978d0",
+            "Value": {
+                "id": "68ea60e6-5dfa-4d60-8213-d9b2ab03ed89",
+                "resourcePath": "objects\\obj_bulletLong\\obj_bulletLong.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -212,6 +244,14 @@
                 "id": "56bbfa0d-641b-496b-b381-5c1679e0da06",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "df14e2c9-52aa-4e13-aaf2-d35f91e9e98a",
+            "Value": {
+                "id": "c122c2a4-0e90-4f79-a885-293a46afc63e",
+                "resourcePath": "objects\\obj_asteroidgone\\obj_asteroidgone.yy",
+                "resourceType": "GMObject"
             }
         },
         {
